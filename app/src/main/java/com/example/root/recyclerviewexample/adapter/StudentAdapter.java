@@ -20,6 +20,7 @@ public class StudentAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder
 
     private ArrayList<Student> mStudents;
 
+
     public void setStudent(ArrayList<Student> students){
         this.mStudents = students;
 
